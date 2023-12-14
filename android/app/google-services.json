@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "208507323056",
+    "project_id": "decisions-b624b",
+    "storage_bucket": "decisions-b624b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208507323056:android:a6b62b18849a1aa8863175",
+        "android_client_info": {
+          "package_name": "com.yorastd.decisions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208507323056-lu1p00kuio9mthml9fklhbfh969d2j33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYvns2A7WwZs4IenqIqiKfBpYyM6ykF5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208507323056-lu1p00kuio9mthml9fklhbfh969d2j33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208507323056-967mba4olbdl5mncl1o8vc8a61atfukk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.decisionMaking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
